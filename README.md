@@ -3,6 +3,9 @@
 GeoPixel is a photosharing app that aims to allow people to tag pictures to locations for a specified amount of time, either day,week, month, year or even forever. 
 
 
-When People leave picture in locations they will be able to get comments on these pictures likes for people who pass by the locations where the picture was taken.
+When People leave a picture in a location they will be able to get comments or likes from people who pass by the location where the picture was tagged.
+
+
+Targted audience is picutre enthusiasts that wanna be able to leave a picture for other people too look at it. 
 
 
