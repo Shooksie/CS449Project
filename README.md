@@ -24,3 +24,11 @@ Targted audience is picutre enthusiasts that wanna be able to leave a picture fo
   <img src="https://github.com/Shooskie/CS449Project/blob/master/App%20screenshots/Screenshot_20170218-104235.png?raw=true" width="350"/>
   <img src="https://github.com/Shooskie/CS449Project/blob/master/App%20screenshots/Screenshot_20170218-104252.png?raw=true" width="350"/>
 </p>
+<h2 align="left" >
+    How the image feed will be designed
+</h2>
+
+<p align="center">
+  <img src="https://github.com/Shooskie/CS449Project/blob/master/App%20screenshots/Screenshot_20170218-104303.png?raw=true" width="350"/>
+  <img src="https://github.com/Shooskie/CS449Project/blob/master/App%20screenshots/Screenshot_20170218-104308.png?raw=true" width="350"/>
+</p>
